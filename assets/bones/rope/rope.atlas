@@ -1,0 +1,13 @@
+
+rope.png
+size: 4,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+004
+  rotate: false
+  xy: 1, 1
+  size: 2, 477
+  orig: 2, 477
+  offset: 0, 0
+  index: -1

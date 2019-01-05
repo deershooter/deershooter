@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "attackstone",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 45,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            30
+          ],
+          "motionPath": [
+            [
+              271,
+              62,
+              125,
+              62,
+              425,
+              62
+            ]
+          ]
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": [
+            503,
+            3
+          ],
+          "motionPath": [
+            [
+              726,
+              -104,
+              678,
+              -57,
+              747,
+              -125
+            ],
+            [
+              867,
+              -209,
+              832,
+              -173,
+              918,
+              -262
+            ]
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            1015,
+            -344
+          ],
+          "motionPath": []
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": []
+}

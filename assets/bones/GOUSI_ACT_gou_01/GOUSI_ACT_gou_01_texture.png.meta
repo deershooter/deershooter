@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bcfe18f0-e499-46e8-bc68-89a0e736dcff",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "GOUSI_ACT_gou_01_texture": {
+      "ver": "1.0.3",
+      "uuid": "251db3c0-9e4c-4a86-8e9a-b6872c195e6e",
+      "rawTextureUuid": "bcfe18f0-e499-46e8-bc68-89a0e736dcff",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 94.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1022,
+      "height": 323,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

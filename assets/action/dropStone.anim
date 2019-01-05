@@ -1,0 +1,42 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dropStone",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.84,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            329,
+            302
+          ],
+          "motionPath": [
+            [
+              393,
+              210,
+              376,
+              286,
+              429,
+              48
+            ]
+          ]
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": [
+            410,
+            -243
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,42 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "rouJian",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -25,
+            -60
+          ],
+          "motionPath": [
+            [
+              -625,
+              -144,
+              -405,
+              11,
+              -899,
+              -335
+            ]
+          ]
+        },
+        {
+          "frame": 2,
+          "value": [
+            -1000,
+            -700
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

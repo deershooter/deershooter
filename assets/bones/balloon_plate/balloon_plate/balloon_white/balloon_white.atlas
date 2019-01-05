@@ -1,0 +1,55 @@
+
+balloon_white.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+white_0006
+  rotate: false
+  xy: 49, 1
+  size: 50, 72
+  orig: 70, 161
+  offset: 9, 68
+  index: -1
+white_0005
+  rotate: false
+  xy: 49, 75
+  size: 54, 52
+  orig: 70, 161
+  offset: 8, 69
+  index: -1
+white_0007
+  rotate: false
+  xy: 1, 1
+  size: 46, 94
+  orig: 70, 161
+  offset: 12, 57
+  index: -1
+white_0003
+  rotate: false
+  xy: 1, 97
+  size: 35, 27
+  orig: 70, 161
+  offset: 17, 70
+  index: -1
+white_0002
+  rotate: false
+  xy: 101, 1
+  size: 33, 15
+  orig: 70, 161
+  offset: 18, 68
+  index: -1
+white_0004
+  rotate: false
+  xy: 105, 75
+  size: 43, 46
+  orig: 70, 161
+  offset: 13, 69
+  index: -1
+white_0001
+  rotate: false
+  xy: 101, 18
+  size: 26, 7
+  orig: 70, 161
+  offset: 21, 65
+  index: -1

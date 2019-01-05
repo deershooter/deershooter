@@ -1,0 +1,20 @@
+
+wheel.png
+size: 64,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+004
+  rotate: false
+  xy: 37, 1
+  size: 4, 87
+  orig: 4, 87
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 1, 1
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1

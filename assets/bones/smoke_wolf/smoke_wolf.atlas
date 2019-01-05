@@ -1,0 +1,48 @@
+
+smoke_wolf.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+smoke1_0004
+  rotate: false
+  xy: 379, 1
+  size: 127, 131
+  orig: 150, 200
+  offset: 14, 60
+  index: -1
+smoke1_0003
+  rotate: false
+  xy: 128, 1
+  size: 126, 146
+  orig: 150, 200
+  offset: 14, 45
+  index: -1
+smoke1_0005
+  rotate: false
+  xy: 379, 134
+  size: 126, 97
+  orig: 150, 200
+  offset: 14, 94
+  index: -1
+smoke1_0001
+  rotate: false
+  xy: 1, 1
+  size: 125, 187
+  orig: 150, 200
+  offset: 14, 4
+  index: -1
+smoke1_0002
+  rotate: false
+  xy: 256, 1
+  size: 121, 145
+  orig: 150, 200
+  offset: 14, 46
+  index: -1
+smoke1_0006
+  rotate: false
+  xy: 256, 148
+  size: 117, 70
+  orig: 150, 200
+  offset: 14, 121
+  index: -1

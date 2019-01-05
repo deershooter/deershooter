@@ -1,0 +1,229 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "whiteBall",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_tag": -1,
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_id": "",
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 94,
+      "height": 191
+    },
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_scaleX": 0.5,
+    "_scaleY": 0.5,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_opacityModifyRGB": false,
+    "groupIndex": 0
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_spriteFrame": {
+      "__uuid__": "c6d9e4d8-ddb7-4327-9506-1b303d591db5"
+    },
+    "_type": 0,
+    "_sizeMode": 1,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_atlas": {
+      "__uuid__": "bce2c014-a237-4bce-bfc6-756d9b010bca"
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "tag": 2,
+    "_offset": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "points": [
+      {
+        "__type__": "cc.Vec2",
+        "x": -21.2,
+        "y": 83.8
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -6.3,
+        "y": 74.7
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -4.6,
+        "y": 33.5
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 1.38,
+        "y": 33.36
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 5.5,
+        "y": 75.6
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 17.7,
+        "y": 82.6
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 38.6,
+        "y": 111.2
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 47.6,
+        "y": 131.2
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 44.3,
+        "y": 146.9
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 40.4,
+        "y": 163.3
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 30.3,
+        "y": 176.8
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 16.2,
+        "y": 187.9
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -0.2,
+        "y": 191.3
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -16.1,
+        "y": 188.9
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -30.9,
+        "y": 179.7
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -40.6,
+        "y": 169.7
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -46.2,
+        "y": 156.4
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -44.8,
+        "y": 120.9
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -35.9,
+        "y": 103.2
+      }
+    ]
+  },
+  {
+    "__type__": "a7005mimtlOGYEiPToFzqUg",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "b0844e36-f681-46cd-93ae-6fc3e6add933"
+    },
+    "fileId": "e76MnzeJREg7DMf/b7VMMo",
+    "sync": false
+  }
+]

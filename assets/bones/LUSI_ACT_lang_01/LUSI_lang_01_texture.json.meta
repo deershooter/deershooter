@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "00d1a77e-627f-4e25-b4fd-084504c79065",
+  "atlasJson": "{\"imagePath\":\"LUSI_lang_01_texture.png\",\"SubTexture\":[{\"name\":\"LUSI_lang_15_jiao_01\",\"x\":59,\"width\":8,\"y\":44,\"height\":11},{\"name\":\"LUSI_lang_14_shenti_01\",\"x\":69,\"width\":53,\"y\":0,\"height\":49},{\"name\":\"LUSI_lang_13_geob_01\",\"x\":109,\"width\":13,\"y\":51,\"height\":18},{\"name\":\"LUSI_lang_09_huzi_01\",\"x\":0,\"width\":28,\"y\":44,\"height\":14},{\"name\":\"LUSI_lang_08_tou_01\",\"x\":0,\"width\":67,\"y\":0,\"height\":42},{\"name\":\"LUSI_lang_12_shou_01\",\"x\":45,\"width\":11,\"y\":54,\"height\":16},{\"name\":\"LUSI_lang_07_erduo_01\",\"x\":0,\"width\":13,\"y\":60,\"height\":17},{\"name\":\"LUSI_lang_06_erduo_02\",\"x\":69,\"width\":14,\"y\":51,\"height\":19},{\"name\":\"LUSI_lang_05_zui_01\",\"x\":30,\"width\":27,\"y\":44,\"height\":8},{\"name\":\"LUSI_lang_04_yanjing_02\",\"x\":85,\"width\":22,\"y\":51,\"height\":10},{\"name\":\"LUSI_lang_03_yanjing_01\",\"x\":85,\"width\":15,\"y\":63,\"height\":10},{\"name\":\"LUSI_lang_02_bizi_01\",\"x\":102,\"width\":12,\"y\":71,\"height\":8},{\"name\":\"LUSI_lang_01_yanqiu_01\",\"x\":58,\"width\":4,\"y\":57,\"height\":4},{\"name\":\"LUSI_lang_11_gebo_02\",\"x\":15,\"width\":13,\"y\":60,\"height\":16},{\"name\":\"LUSI_lang_10_shou_02\",\"x\":30,\"width\":13,\"y\":54,\"height\":17}],\"name\":\"LUSI_ACT_lang_01\"}",
+  "texture": "8de19360-d28d-4a1d-9a29-a8368187723e",
+  "subMetas": {}
+}
